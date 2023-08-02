@@ -14,7 +14,8 @@ class App extends Component {
         {/* <Route path="/india" element={<Details/>} /> */}
           <Route path="/about" element={<About/>} />
         </Routes>
-      </Router>
+      </Router>  
+      
     );
   }
 }
